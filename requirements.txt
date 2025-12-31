@@ -1,0 +1,5 @@
+click
+netmiko
+napalm
+pysnmp
+cryptography
